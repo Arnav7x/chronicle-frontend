@@ -2,7 +2,6 @@ import React from "react";
 import { FaLinkedin, FaInstagram, FaFacebook, FaTelegram, FaXTwitter } from "react-icons/fa6";
 
 
-
 const Footer = () => {
   return (
     <footer className="border-t mt-4 bg-white">
